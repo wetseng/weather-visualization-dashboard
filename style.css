@@ -58,6 +58,12 @@ h6 {
 
 }
 
+.plot-fig{
+    float: left;
+    padding: 0 10px 0 0;
+    width: 25%;
+}
+
 
 
 #box-vis-btn {
